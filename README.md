@@ -1,6 +1,9 @@
-### Hi there 👋
-<link rel="stylesheet" href="style-readme.css">
-<div class="hello">HELLO WORLD</div>
+<head>
+  <link rel="stylesheet" href="style-readme.css">
+</head>
+<body>
+  <div class="hello">HELLO WORLD</div>
+</body>
 
 <!--
 **World-exe-cute/World-exe-cute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
