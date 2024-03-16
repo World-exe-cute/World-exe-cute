@@ -1,5 +1,5 @@
 ```css
-.hello {
+hello {
   background: white;
 }
 ```
