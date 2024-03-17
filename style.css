@@ -1,6 +1,4 @@
-```css
-  .hello {
-    border: 1px solid rgb(240,22,123);
-    background: rgb(255,255,255);
-  }
-```
+.hello {
+  border: 1px solid rgb(240,22,123);
+  background: rgb(255,255,255);
+}
