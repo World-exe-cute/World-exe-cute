@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="https://World-exe-cute.github.io/style.css">
   </head>
   <body>
-    <div class="hello">HELLO WORLD</div>
+    <div>HELLO WORLD</div>
   </body>
 </html>
 
