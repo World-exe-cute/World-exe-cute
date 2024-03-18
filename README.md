@@ -7,6 +7,12 @@
   <body>
     <div>HELLO WORLD</div>
   </body>
+  <style>
+    div {
+      font-size:4em;
+      background: white;
+    }
+  </style>
 </html>
 
 
