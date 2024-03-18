@@ -7,12 +7,12 @@
   <body>
     <div>HELLO WORLD</div>
   </body>
-  <style>
+  ```css
     div {
       font-size:4em;
       background: white;
     }
-  </style>
+ ```
 </html>
 
 
