@@ -1,3 +1,9 @@
+```css
+    div {
+      font-size:4em;
+      background: white;
+    }
+ ```
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -7,12 +13,6 @@
   <body>
     <div>HELLO WORLD</div>
   </body>
-  ```css
-    div {
-      font-size:4em;
-      background: white;
-    }
- ```
 </html>
 
 
