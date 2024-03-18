@@ -10,11 +10,10 @@
           color: white;
         }
       </style>
-    <html>
+
       <div class="container">
         <h1>Hi there, my name is Nikola 👋</h1>
       </div>
-    </html>
     </div>
   </foreignObject>
 </svg>
