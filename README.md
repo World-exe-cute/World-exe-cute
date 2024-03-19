@@ -1,10 +1,4 @@
-<html>
-  <head>
-    <link rel="stylesheet" type="text/css" href="style.css">
-  </head>
-  <body>
-  </body>
-</html>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=World-exe-cute)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
