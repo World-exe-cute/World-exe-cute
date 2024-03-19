@@ -3,13 +3,9 @@
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-    <ul>
-      <li>
-        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=World-exe-cute)](https://github.com/anuraghazra/github-readme-stats)
-      </li>
-    </ul>
   </body>
 </html>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=World-exe-cute)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **World-exe-cute/World-exe-cute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
