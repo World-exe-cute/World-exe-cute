@@ -3,15 +3,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-    <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-      <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <div class="container">
-            <h1 class="hello">Hi there, my name is Nikola 👋</h1>
-          </div>
-        </div>
-      </foreignObject>
-    </svg>
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
   </body>
 </html>
 
