@@ -1,5 +1,7 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=World-exe-cute)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=World-exe-cute&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=World-exe-cute&repo=github-readme-stats)](https://github.com/World-exe-cute/github-readme-stats)
 
 <!--
 **World-exe-cute/World-exe-cute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
