@@ -3,7 +3,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=World-exe-cute)](https://github.com/anuraghazra/github-readme-stats)
+      -[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=World-exe-cute)](https://github.com/anuraghazra/github-readme-stats)
   </body>
 </html>
 
